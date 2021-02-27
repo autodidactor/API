@@ -17,7 +17,7 @@ For a request you need 2 parameters. These are:
 
 The basic URL to make a request is:
 
-<a href="http://alexpts.de:8000/api/v1.0/generate?mode=allChar&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode={mode}&length={length}</a>
+[http://alexpts.de:8000/api/v1.0/generate?mode={mode}&length={length}](http://alexpts.de:8000/api/v1.0/generate?mode=allChar&length=5)
 
 ---
 
@@ -54,7 +54,7 @@ Modes and their example output
 
 Returns an integer of length N.
 
-Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=numbers&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode=numbers&length=5</a>
+Example URL: [http://alexpts.de:8000/api/v1.0/generate?mode=numbers&length=5](http://alexpts.de:8000/api/v1.0/generate?mode=numbers&length=5)
 
 output:
 ```json
@@ -71,7 +71,7 @@ output:
 
 Returns a string of length N.
 
-Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=letters&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode=letters&length=5</a>
+Example URL: [http://alexpts.de:8000/api/v1.0/generate?mode=letters&length=5](http://alexpts.de:8000/api/v1.0/generate?mode=letters&length=5)
 
 output:
 
@@ -89,7 +89,7 @@ output:
 
 Returns a string of length N. 
 
-Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=uppercaseLetters&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode=uppercaseLetters&length=5</a>
+Example URL: [http://alexpts.de:8000/api/v1.0/generate?mode=uppercaseLetters&length=5](http://alexpts.de:8000/api/v1.0/generate?mode=uppercaseLetters&length=5)
 
 ```json
 [
@@ -105,7 +105,7 @@ Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=uppercaseLet
 
 Returns a string of length N. 
 
-Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=lowercaseLetters&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode=lowercaseLetters&length=5</a>
+Example URL: [http://alexpts.de:8000/api/v1.0/generate?mode=lowercaseLetters&length=5](http://alexpts.de:8000/api/v1.0/generate?mode=lowercaseLetters&length=5)
 
 ```json
 [
@@ -122,7 +122,7 @@ Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=lowercaseLet
 
 Returns a string of length N. 
 
-Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=punctuation&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode=punctuation&length=5</a>
+Example URL: [http://alexpts.de:8000/api/v1.0/generate?mode=punctuation&length=5](http://alexpts.de:8000/api/v1.0/generate?mode=punctuation&length=5)
 
 ```json
 [
@@ -139,7 +139,7 @@ Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=punctuation&
 
 Returns a string of length N. 
 
-Example URL: <a href="http://alexpts.de:8000/api/v1.0/generate?mode=allChar&length=5" target="_blank">http://alexpts.de:8000/api/v1.0/generate?mode=allChar&length=5</a>
+Example URL: [http://alexpts.de:8000/api/v1.0/generate?mode=allChar&length=5](http://alexpts.de:8000/api/v1.0/generate?mode=allChar&length=5)
 
 ```json
 [
